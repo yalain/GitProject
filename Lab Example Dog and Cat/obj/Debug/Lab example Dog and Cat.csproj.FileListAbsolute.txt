@@ -1,0 +1,9 @@
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\bin\Debug\Lab example Dog and Cat.exe.config
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\bin\Debug\Lab example Dog and Cat.exe
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\bin\Debug\Lab example Dog and Cat.pdb
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\obj\Debug\Lab example Dog and Cat.csprojResolveAssemblyReference.cache
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\obj\Debug\Lab example Dog and Cat.exe
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\Lab example Dog and Cat\Lab example Dog and Cat\obj\Debug\Lab example Dog and Cat.pdb
+F:\Users\yalain\Documents\Visual Studio 2013\Projects\Dogandcat\Lab example Dog and Cat\bin\Debug\Lab example Dog and Cat.exe.config
+F:\Users\yalain\Documents\Visual Studio 2013\Projects\Dogandcat\Lab example Dog and Cat\obj\Debug\Lab example Dog and Cat.exe
+F:\Users\yalain\Documents\Visual Studio 2013\Projects\Dogandcat\Lab example Dog and Cat\obj\Debug\Lab example Dog and Cat.pdb
