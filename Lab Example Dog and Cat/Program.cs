@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab_example_Dog_and_Cat
 {
+    /// <summary>
+    /// Adding a description to change the file
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
